@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Ver ESPN Premium en Vivo | THE GAME</title>
+    <meta name="description" content="Mira ESPN Premium en vivo y en directo. Los mejores partidos del fútbol argentino y eventos internacionales con THE GAME.">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js" defer></script>
+</head>
+
+<body class="bg-gray-100">
+    <header class="bg-white shadow-md sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
+            <a href="Pagina-principal.html" class="text-3xl font-extrabold text-teal-700 tracking-wide uppercase">THE GAME</a>
+            <nav class="hidden md:flex space-x-6">
+                <a href="tyc-sports.html" class="text-gray-700 hover:text-teal-600 font-medium transition">TyC Sports</a>
+                <a href="Directv.html" class="text-gray-700 hover:text-teal-600 font-medium transition">DirecTV</a>
+                <a href="fox-sport.html" class="text-gray-700 hover:text-teal-600 font-medium transition">Fox Sports</a>
+                <a href="Espn-premium.html" class="text-teal-600 font-bold border-b-2 border-teal-600 transition">ESPN Premium</a>
+                <a href="Pagina-principal.html" class="text-gray-700 hover:text-teal-600 font-medium transition">Inicio</a>
+            </nav>
+            <button class="md:hidden text-gray-700">
+                <i class="fas fa-bars text-2xl"></i>
+            </button>
+        </div>
+    </header>
+
+    <main class="max-w-5xl mx-auto px-4 mt-8">
+        <div class="bg-white rounded-2xl shadow-xl overflow-hidden">
+            <div class="bg-teal-700 p-4">
+                <h1 class="text-white text-2xl font-bold flex items-center">
+                    <i class="fas fa-tv mr-3"></i> ESPN Premium en Vivo
+                </h1>
+            </div>
+
+            <div class="aspect-video bg-black">
+                <iframe allow="encrypted-media" id="iframe" name="iframe" allowfullscreen 
+                    frameborder="0" height="100%" scrolling="no" 
+                    src="https://latamvidz1.com/canal.php?stream=espnpremium"
+                    width="100%" class="w-full h-full"></iframe>
+            </div>
+
+            <div class="p-6 bg-gray-50 border-t border-gray-200">
+                <p class="text-gray-600 font-semibold mb-4 uppercase text-sm tracking-wider text-center md:text-left">Opciones de Transmisión:</p>
+                <div class="flex flex-wrap gap-3 justify-center md:justify-start">
+                    <button onclick="document.getElementById('iframe').src='https://latamvidz1.com/canal.php?stream=espnpremium'" 
+                        class="bg-teal-600 hover:bg-teal-700 text-white font-bold py-2 px-6 rounded-full transition shadow-md">
+                        Opción 1
+                    </button>
+                    <button onclick="document.getElementById('iframe').src='https://la14hd.com/vivo/canales.php?stream=espnpremium'" 
+                        class="bg-teal-600 hover:bg-teal-700 text-white font-bold py-2 px-6 rounded-full transition shadow-md">
+                        Opción 2
+                    </button>
+                    <button onclick="document.getElementById('iframe').src='https://streamtpcloud.com/global1.php?stream=espnpremium'" 
+                        class="bg-teal-600 hover:bg-teal-700 text-white font-bold py-2 px-6 rounded-full transition shadow-md">
+                        Opción 3
+                    </button>
+                    <button onclick="document.getElementById('iframe').src='https://elcanaldeportivo.com/espnpremium.php'" 
+                        class="bg-red-600 hover:bg-red-700 text-white font-bold py-2 px-6 rounded-full transition shadow-md">
+                        Opción 4 (Ads)
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="mt-8 bg-white p-6 rounded-2xl shadow-lg mb-12">
+            <h2 class="text-2xl font-bold text-teal-700 mb-4">Sobre ESPN Premium</h2>
+            <p class="text-gray-700 leading-relaxed">
+                Accede a la señal de <strong>ESPN Premium</strong> para disfrutar de lo mejor del Pack Fútbol argentino. No te pierdas los partidos de la Liga Profesional, análisis pre-partido y toda la cobertura del deporte nacional e internacional con la más alta calidad.
+            </p>
+        </div>
+    </main>
+
+    <footer class="bg-gray-900 text-white py-6">
+        <div class="max-w-7xl mx-auto px-4 text-center">
+            <p class="text-sm font-bold tracking-widest uppercase">THE GAME © 2026</p>
+            <p class="text-gray-500 text-xs mt-1">Transmisión de uso local para fines educativos.</p>
+        </div>
+    </footer>
+</body>
+</html>

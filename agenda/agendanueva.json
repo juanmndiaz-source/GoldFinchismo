@@ -1,0 +1,776 @@
+{
+    "data": [
+        {
+            "id": 30714,
+            "attributes": {
+                "diary_hour": "20:00:00",
+                "diary_description": "Categoría Primera A: Junior vs Alianza",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 616,
+                            "attributes": {
+                                "embed_name": "Win Sports +",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09d2luc3BvcnRzcGx1cw=="
+                            }
+                        },
+                        {
+                            "id": 753,
+                            "attributes": {
+                                "embed_name": "Win Sports + HD",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09d2luc3BvcnRzMg=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 17,
+                        "attributes": {
+                            "name": "Colombia",
+                            "createdAt": "2023-11-22T15:49:17.121Z",
+                            "updatedAt": "2024-01-07T23:51:34.518Z",
+                            "publishedAt": "2023-11-22T15:49:18.322Z",
+                            "image": {
+                                "data": {
+                                    "id": 133,
+                                    "attributes": {
+                                        "name": "colombia.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "colombia_dcf9cc2637",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 0.57,
+                                        "url": "\/uploads\/colombia_dcf9cc2637.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-01-07T23:51:32.399Z",
+                                        "updatedAt": "2024-01-07T23:51:32.399Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30704,
+            "attributes": {
+                "diary_hour": "15:00:00",
+                "diary_description": "Premier League: Tottenham Hotspur vs Crystal Palace",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 745,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5MQ=="
+                            }
+                        },
+                        {
+                            "id": 746,
+                            "attributes": {
+                                "embed_name": "ESPN",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZXNwbg=="
+                            }
+                        },
+                        {
+                            "id": 780,
+                            "attributes": {
+                                "embed_name": "Universo",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09dW5pdmVyc28="
+                            }
+                        },
+                        {
+                            "id": 856,
+                            "attributes": {
+                                "embed_name": "USA Network",
+                                "idioma": "Inglés",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09dXNhbmV0d29yaw=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 8,
+                        "attributes": {
+                            "name": "Inglaterra",
+                            "createdAt": "2023-11-22T15:34:59.892Z",
+                            "updatedAt": "2024-01-07T23:52:57.434Z",
+                            "publishedAt": "2023-11-22T15:35:01.179Z",
+                            "image": {
+                                "data": {
+                                    "id": 135,
+                                    "attributes": {
+                                        "name": "inglaterra.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "inglaterra_823176495f",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 0.53,
+                                        "url": "\/uploads\/inglaterra_823176495f.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-01-07T23:52:55.261Z",
+                                        "updatedAt": "2024-01-07T23:52:55.261Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30707,
+            "attributes": {
+                "diary_hour": "17:00:00",
+                "diary_description": "Copa Sudamericana: Nacional Asunción vs Deportivo Recoleta",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 669,
+                            "attributes": {
+                                "embed_name": "Dsports+",
+                                "idioma": "español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZHNwb3J0c3BsdXM="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 60,
+                        "attributes": {
+                            "name": "Copa Sudamericana 2025",
+                            "createdAt": "2024-03-05T12:36:41.960Z",
+                            "updatedAt": "2025-04-08T20:54:21.836Z",
+                            "publishedAt": "2024-03-05T12:36:43.447Z",
+                            "image": {
+                                "data": {
+                                    "id": 190,
+                                    "attributes": {
+                                        "name": "image-modified.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 137,
+                                        "height": 137,
+                                        "formats": null,
+                                        "hash": "image_modified_f8ce531f01",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 4.09,
+                                        "url": "\/uploads\/image_modified_f8ce531f01.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-03-05T12:36:38.762Z",
+                                        "updatedAt": "2024-03-05T12:36:38.762Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30711,
+            "attributes": {
+                "diary_hour": "19:30:00",
+                "diary_description": "Copa Sudamericana: América de Cali vs Atlético Bucaramanga\n",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 20,
+                            "attributes": {
+                                "embed_name": "Dsports",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZHNwb3J0cw=="
+                            }
+                        },
+                        {
+                            "id": 1201,
+                            "attributes": {
+                                "embed_name": "Dsports Movil",
+                                "idioma": null,
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvc3cuaHRtbD9nZXQ9aHR0cHM6Ly9yb2phZGlyZWN0YXR2ZS5jb20vcmVwcm8vZGdvLmh0bWw="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 86,
+                        "attributes": {
+                            "name": "Recopa Sudamericana",
+                            "createdAt": "2025-02-27T13:15:49.722Z",
+                            "updatedAt": "2025-02-27T13:15:51.382Z",
+                            "publishedAt": "2025-02-27T13:15:51.380Z",
+                            "image": {
+                                "data": {
+                                    "id": 256,
+                                    "attributes": {
+                                        "name": "recopa.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "recopa_7033e0604a",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 2.74,
+                                        "url": "\/uploads\/recopa_7033e0604a.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2025-02-27T13:15:46.806Z",
+                                        "updatedAt": "2025-02-27T13:15:46.806Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30715,
+            "attributes": {
+                "diary_hour": "21:00:00",
+                "diary_description": "Copa Sudamericana: Orense vs Macará",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 370,
+                            "attributes": {
+                                "embed_name": "ESPN2",
+                                "idioma": "español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZXNwbjI="
+                            }
+                        },
+                        {
+                            "id": 815,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5Ng=="
+                            }
+                        },
+                        {
+                            "id": 826,
+                            "attributes": {
+                                "embed_name": "beIN Sports Ñ",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09YmVpbnNwb3J0ZXM="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 60,
+                        "attributes": {
+                            "name": "Copa Sudamericana 2025",
+                            "createdAt": "2024-03-05T12:36:41.960Z",
+                            "updatedAt": "2025-04-08T20:54:21.836Z",
+                            "publishedAt": "2024-03-05T12:36:43.447Z",
+                            "image": {
+                                "data": {
+                                    "id": 190,
+                                    "attributes": {
+                                        "name": "image-modified.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 137,
+                                        "height": 137,
+                                        "formats": null,
+                                        "hash": "image_modified_f8ce531f01",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 4.09,
+                                        "url": "\/uploads\/image_modified_f8ce531f01.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-03-05T12:36:38.762Z",
+                                        "updatedAt": "2024-03-05T12:36:38.762Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30705,
+            "attributes": {
+                "diary_hour": "15:00:00",
+                "diary_description": "Copa de Francia: Olympique Lyonnais vs Lens",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 774,
+                            "attributes": {
+                                "embed_name": "FOX Deportes",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09Zm94ZGVwb3J0ZXM="
+                            }
+                        },
+                        {
+                            "id": 637,
+                            "attributes": {
+                                "embed_name": "TVC Deportes MX",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09dHZjX2RlcG9ydGVz"
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 11,
+                        "attributes": {
+                            "name": "Francia",
+                            "createdAt": "2023-11-22T15:36:32.644Z",
+                            "updatedAt": "2024-01-07T23:54:10.948Z",
+                            "publishedAt": "2023-11-22T15:36:34.086Z",
+                            "image": {
+                                "data": {
+                                    "id": 137,
+                                    "attributes": {
+                                        "name": "francia.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "francia_e9d1a8ab33",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 0.58,
+                                        "url": "\/uploads\/francia_e9d1a8ab33.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-01-07T23:54:08.582Z",
+                                        "updatedAt": "2024-01-07T23:54:08.582Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30708,
+            "attributes": {
+                "diary_hour": "18:00:00",
+                "diary_description": "Categoría Primera A: Llaneros vs Inter Bogotá",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 616,
+                            "attributes": {
+                                "embed_name": "Win Sports +",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09d2luc3BvcnRzcGx1cw=="
+                            }
+                        },
+                        {
+                            "id": 753,
+                            "attributes": {
+                                "embed_name": "Win Sports + HD",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09d2luc3BvcnRzMg=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 17,
+                        "attributes": {
+                            "name": "Colombia",
+                            "createdAt": "2023-11-22T15:49:17.121Z",
+                            "updatedAt": "2024-01-07T23:51:34.518Z",
+                            "publishedAt": "2023-11-22T15:49:18.322Z",
+                            "image": {
+                                "data": {
+                                    "id": 133,
+                                    "attributes": {
+                                        "name": "colombia.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "colombia_dcf9cc2637",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 0.57,
+                                        "url": "\/uploads\/colombia_dcf9cc2637.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-01-07T23:51:32.399Z",
+                                        "updatedAt": "2024-01-07T23:51:32.399Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30712,
+            "attributes": {
+                "diary_hour": "19:30:00",
+                "diary_description": "Copa Sudamericana: Cienciano vs Melgar",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 181,
+                            "attributes": {
+                                "embed_name": "Dsports 2",
+                                "idioma": "español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZHNwb3J0czI="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 60,
+                        "attributes": {
+                            "name": "Copa Sudamericana 2025",
+                            "createdAt": "2024-03-05T12:36:41.960Z",
+                            "updatedAt": "2025-04-08T20:54:21.836Z",
+                            "publishedAt": "2024-03-05T12:36:43.447Z",
+                            "image": {
+                                "data": {
+                                    "id": 190,
+                                    "attributes": {
+                                        "name": "image-modified.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 137,
+                                        "height": 137,
+                                        "formats": null,
+                                        "hash": "image_modified_f8ce531f01",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 4.09,
+                                        "url": "\/uploads\/image_modified_f8ce531f01.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-03-05T12:36:38.762Z",
+                                        "updatedAt": "2024-03-05T12:36:38.762Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30706,
+            "attributes": {
+                "diary_hour": "17:00:00",
+                "diary_description": "Copa Sudamericana: Boston River vs Racing",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 746,
+                            "attributes": {
+                                "embed_name": "ESPN",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZXNwbg=="
+                            }
+                        },
+                        {
+                            "id": 765,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5Mg=="
+                            }
+                        },
+                        {
+                            "id": 826,
+                            "attributes": {
+                                "embed_name": "beIN Sports Ñ",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09YmVpbnNwb3J0ZXM="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 60,
+                        "attributes": {
+                            "name": "Copa Sudamericana 2025",
+                            "createdAt": "2024-03-05T12:36:41.960Z",
+                            "updatedAt": "2025-04-08T20:54:21.836Z",
+                            "publishedAt": "2024-03-05T12:36:43.447Z",
+                            "image": {
+                                "data": {
+                                    "id": 190,
+                                    "attributes": {
+                                        "name": "image-modified.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 137,
+                                        "height": 137,
+                                        "formats": null,
+                                        "hash": "image_modified_f8ce531f01",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 4.09,
+                                        "url": "\/uploads\/image_modified_f8ce531f01.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-03-05T12:36:38.762Z",
+                                        "updatedAt": "2024-03-05T12:36:38.762Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30709,
+            "attributes": {
+                "diary_hour": "17:00:00",
+                "diary_description": "Campeonato W de CONCACAF: Antigua y Barbuda vs Guyana",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 783,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5Mw=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 54,
+                        "attributes": {
+                            "name": "CONCACAF Liga de Campeones",
+                            "createdAt": "2024-02-06T12:14:36.364Z",
+                            "updatedAt": "2024-02-06T12:14:37.684Z",
+                            "publishedAt": "2024-02-06T12:14:37.682Z",
+                            "image": {
+                                "data": {
+                                    "id": 181,
+                                    "attributes": {
+                                        "name": "concacaf_liga_campeones.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "concacaf_liga_campeones_fad6673376",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 1.97,
+                                        "url": "\/uploads\/concacaf_liga_campeones_fad6673376.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-02-06T12:14:32.912Z",
+                                        "updatedAt": "2024-02-06T12:14:32.912Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30710,
+            "attributes": {
+                "diary_hour": "14:30:00",
+                "diary_description": "Campeonato W de CONCACAF: U.S. Virgin Islands vs Puerto Rico",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 784,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5NA=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 54,
+                        "attributes": {
+                            "name": "CONCACAF Liga de Campeones",
+                            "createdAt": "2024-02-06T12:14:36.364Z",
+                            "updatedAt": "2024-02-06T12:14:37.684Z",
+                            "publishedAt": "2024-02-06T12:14:37.682Z",
+                            "image": {
+                                "data": {
+                                    "id": 181,
+                                    "attributes": {
+                                        "name": "concacaf_liga_campeones.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "concacaf_liga_campeones_fad6673376",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 1.97,
+                                        "url": "\/uploads\/concacaf_liga_campeones_fad6673376.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-02-06T12:14:32.912Z",
+                                        "updatedAt": "2024-02-06T12:14:32.912Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "id": 30713,
+            "attributes": {
+                "diary_hour": "19:30:00",
+                "diary_description": "Copa Libertadores: Juventud vs Medellín",
+                "date_diary": "2026-03-05",
+                "deportes": "Futbol",
+                "embeds": {
+                    "data": [
+                        {
+                            "id": 657,
+                            "attributes": {
+                                "embed_name": "Fox Sports 2",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09Zm94c3BvcnRzMg=="
+                            }
+                        },
+                        {
+                            "id": 746,
+                            "attributes": {
+                                "embed_name": "ESPN",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZXNwbg=="
+                            }
+                        },
+                        {
+                            "id": 789,
+                            "attributes": {
+                                "embed_name": "Disney+",
+                                "idioma": "Español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09ZGlzbmV5NQ=="
+                            }
+                        },
+                        {
+                            "id": 302,
+                            "attributes": {
+                                "embed_name": "beIN Sports XTRA Español",
+                                "idioma": "español",
+                                "embed_iframe": "\/eventos.html?r=aHR0cHM6Ly9za3lnZy5sYXQvMTIuaHRtbD9zdHJlYW09YmVpbnNwb3J0X3h0cmFfZXNwYW5vbA=="
+                            }
+                        }
+                    ]
+                },
+                "country": {
+                    "data": {
+                        "id": 55,
+                        "attributes": {
+                            "name": "Copa Libertadores",
+                            "createdAt": "2024-02-06T12:14:59.467Z",
+                            "updatedAt": "2024-02-06T12:15:00.695Z",
+                            "publishedAt": "2024-02-06T12:15:00.694Z",
+                            "image": {
+                                "data": {
+                                    "id": 182,
+                                    "attributes": {
+                                        "name": "copa_libertadores.png",
+                                        "alternativeText": null,
+                                        "caption": null,
+                                        "width": 64,
+                                        "height": 64,
+                                        "formats": null,
+                                        "hash": "copa_libertadores_f60faf808a",
+                                        "ext": ".png",
+                                        "mime": "image\/png",
+                                        "size": 2.5,
+                                        "url": "\/uploads\/copa_libertadores_f60faf808a.png",
+                                        "previewUrl": null,
+                                        "provider": "local",
+                                        "provider_metadata": null,
+                                        "createdAt": "2024-02-06T12:14:56.951Z",
+                                        "updatedAt": "2024-02-06T12:14:56.951Z"
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}

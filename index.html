@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acceso Privado</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif; }
+        body { background: #111; display: flex; justify-content: center; align-items: center; height: 100vh; color: white; }
+        .card { background: #222; padding: 2rem; border-radius: 15px; text-align: center; width: 300px; border: 1px solid #333; }
+        input { width: 100%; padding: 10px; margin: 15px 0; border-radius: 5px; border: none; text-align: center; }
+        button { width: 100%; padding: 10px; background: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; font-weight: bold; }
+        button:hover { background: #0056b3; }
+        #mensaje { color: #ff4d4d; font-size: 0.8rem; margin-top: 10px; display: none; }
+    </style>
+</head>
+<body>
+
+    <div class="card">
+        <h2>🔒 Privado</h2>
+        <input type="password" id="passInput" placeholder="Introduce la clave" autofocus>
+        <button onclick="validar()">Entrar</button>
+        <p id="mensaje">Contraseña incorrecta</p>
+    </div>
+
+    <script>
+        function validar() {
+            // --- AQUÍ PONES LA CONTRASEÑA QUE QUIERAS ---
+            const PASSWORD_CORRECTA = "nigger"; 
+            
+            // --- AQUÍ PONES A DÓNDE IR SI ES CORRECTA ---
+            const URL_DESTINO = href="./paginas/Pagina-principal.html";
+
+            const input = document.getElementById("passInput").value;
+            const mensaje = document.getElementById("mensaje");
+
+            if (input === PASSWORD_CORRECTA) {
+                window.location.href = URL_DESTINO;
+            } else {
+                mensaje.style.display = "block";
+                document.getElementById("passInput").value = "";
+            }
+        }
+
+        // Permitir entrar al presionar "Enter"
+        document.getElementById("passInput").addEventListener("keypress", function(e) {
+            if (e.key === "Enter") { validar(); }
+        });
+    </script>
+
+</body>
+</html>

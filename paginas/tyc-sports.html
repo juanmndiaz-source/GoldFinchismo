@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TyC Sports en Vivo | THE GAME</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+    <header>
+        <a href="./Pagina-principal.html" class="logo">THE <span>GAME</span></a>
+        <nav>
+            <a href="tyc-sports.html">TyC Sports</a>
+            <a href="Directv.html">DirecTV</a>
+            <a href="fox-sport.html">Fox Sports</a>
+            <a href="Espn-premium.html">ESPN Premium</a>
+        </nav>
+    </header>
+
+    <main class="container">
+        <div class="hero">
+            <h1>TyC Sports</h1>
+            <p>Disfruta de la mejor programación deportiva de Argentina en HD.</p>
+        </div>
+
+        <div class="agenda-box">
+            <iframe id="iframe" src="https://streamtp10.com/global1.php?stream=tycsports" allowfullscreen></iframe>
+        </div>
+
+        <div class="channels-grid" style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));">
+            <div class="card" style="padding: 15px;">
+                <button onclick="document.getElementById('iframe').src='https://streamtp10.com/global1.php?stream=tycsports'" class="btn-play">Opción 1</button>
+            </div>
+            <div class="card" style="padding: 15px;">
+                <button onclick="document.getElementById('iframe').src='https://sfntv.xyz/reproductor/tycsports'" class="btn-play">Opción 2</button>
+            </div>
+            <div class="card" style="padding: 15px;">
+                <button onclick="document.getElementById('iframe').src='https://streamtpcloud.com/global1.php?stream=tycsports'" class="btn-play">Opción 3</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 THE GAME. Transmisión de alta calidad.</p>
+    </footer>
+</body>
+</html>
