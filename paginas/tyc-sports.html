@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TV Pública en Vivo | THE GAME</title>
-    <link rel="stylesheet" href="/css/styles.css">
+    <title>Multi-View TyC Sports | THE GAME</title>
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
 <body>
     <header>
-        <a href="../Pagina-principal.html" class="logo">THE <span>GAME</span></a>
+        <a href="./Pagina-principal.html" class="logo">THE <span>GAME</span></a>
         <nav>
             <a href="tyc-sports.html">TyC Sports</a>
             <a href="Directv.html">DirecTV</a>
@@ -18,6 +18,7 @@
     </header>
 
     <div class="dashboard-container">
+        
         <aside class="side-panel">
             <span class="section-tag">Marcadores</span>
             <div class="glass-frame">
@@ -26,15 +27,15 @@
         </aside>
 
         <main class="main-panel">
-            <span class="section-tag">TV Pública Argentina</span>
+            <span class="section-tag">TyC Sports en Vivo</span>
             <div class="glass-frame">
-                <iframe id="iframe" src="https://streamtpcloud.com/global1.php?stream=tvpublica" allowfullscreen width="100%" height="100%" frameborder="0"></iframe>
+                <iframe id="iframe" src="https://streamtpcloud.com/global1.php?stream=tycsports" allowfullscreen width="100%" height="100%" frameborder="0"></iframe>
             </div>
             
             <div class="controls-area">
-                <button onclick="document.getElementById('iframe').src='https://streamtpcloud.com/global1.php?stream=tvpublica'" class="btn-play">OPCIÓN 1</button>
-                <button onclick="document.getElementById('iframe').src='https://sfntv.xyz/reproductor/tvpublica'" class="btn-play">OPCIÓN 2</button>
-                <button onclick="document.getElementById('iframe').src='https://m3u8.cl/directo/tvpublica.php'" class="btn-play">OPCIÓN 3</button>
+                <button onclick="document.getElementById('iframe').src='https://streamtpcloud.com/global1.php?stream=tycsports'" class="btn-play">OPCIÓN 1</button>
+                <button onclick="document.getElementById('iframe').src='https://sfntv.xyz/reproductor/tycsports'" class="btn-play">OPCIÓN 2</button>
+                <button onclick="document.getElementById('iframe').src='https://m3u8.cl/directo/tycsports.php'" class="btn-play">OPCIÓN 3</button>
             </div>
         </main>
 
@@ -52,10 +53,14 @@
                 </iframe>
             </div>
         </aside>
+
+        
+
     </div>
 
     <footer>
-        <p>&copy; 2026 THE GAME. Transmisión oficial de la TV Pública.</p>
+        <p>&copy; 2026 THE GAME | Multi-View Dashboard</p>
     </footer>
 </body>
+
 </html>
