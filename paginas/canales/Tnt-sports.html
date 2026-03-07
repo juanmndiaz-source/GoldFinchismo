@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNT Sports | THE GAME</title>
+    <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+    <header>
+        <a href="../Pagina-principal.html" class="logo">THE <span>GAME</span></a>
+        <nav>
+            <a href="tyc-sports.html">TyC Sports</a>
+            <a href="Directv.html">DirecTV</a>
+            <a href="fox-sport.html">Fox Sports</a>
+            <a href="Espn-premium.html">ESPN Premium</a>
+        </nav>
+    </header>
+
+    <div class="dashboard-container">
+        <aside class="side-panel">
+            <span class="section-tag">Marcadores</span>
+            <div class="glass-frame">
+                <iframe src="https://www.promiedos.com.ar" width="100% height="100%" frameborder="0"></iframe>
+            </div>
+        </aside>
+
+        <main class="main-panel">
+            <span class="section-tag">TNT Sports en Vivo</span>
+            <div class="glass-frame">
+                <iframe id="iframe" src="https://streamtpcloud.com/global1.php?stream=tntsports" allowfullscreen width="100%" height="100%" frameborder="0"></iframe>
+            </div>
+            <div class="controls-area">
+                <button onclick="document.getElementById('iframe').src='https://streamtpcloud.com/global1.php?stream=tntsports'" class="btn-play">OPCIÓN 1</button>
+                <button onclick="document.getElementById('iframe').src='https://sfntv.xyz/reproductor/tntsports'" class="btn-play">OPCIÓN 2</button>
+                <button onclick="document.getElementById('iframe').src='https://elcanaldeportivo.com/tntsports.php'" class="btn-play">OPCIÓN 3</button>
+            </div>
+        </main>
+
+        <aside class="side-panel">
+            <span class="section-tag">Video Secundario</span>
+            <div class="glass-frame">
+                <iframe width="100%" height="100%" src="https://www.youtube.com/embed/zZ7AimPACzc" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>
